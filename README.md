@@ -1,1 +1,98 @@
-# chamana
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+             
+    
+                <meta charset="utf-8"/>
+<title>chamana</title>
+<meta name="fb_admins_meta_tag" content=""/>
+<link rel="shortcut icon" href="https://static.parastorage.com/client/pfavico.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://static.parastorage.com/client/pfavico.ico" type="image/x-icon"/>
+    <meta http-equiv="X-Wix-Renderer-Server" content="app08.tam"/>
+<meta http-equiv="X-Wix-Meta-Site-Id" content="6adf3f6c-2894-443a-b656-7b00167fa038"/>
+<meta http-equiv="X-Wix-Application-Instance-Id" content="f5af6ef0-dbca-4959-aa3d-92aa580bc180"/>
+<meta http-equiv="X-Wix-Published-Version" content="24"/>
+
+<meta http-equiv="etag" content="f730f805c460ccb8e4b4c3f525ef4deb"/>
+<meta property="og:title" content="chamana"/>
+<meta property="og:type" content="website"/>
+<meta property="og:url" content="http://www.chamana.com/"/>
+<meta property="og:site_name" content="chamana"/>
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
+
+<meta id="wixMobileViewport" name="viewport" content="minimum-scale=0.25, maximum-scale=1.2"/>
+
+
+        
+
+    <script>
+    // BEAT MESSAGE
+    try {
+        window.wixBiSession = {
+            initialTimestamp : Date.now(),
+            viewerSessionId: 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, function(c)
+                    { var r = Math.random()*16|0, v = c == 'x' ? r : (r&0x3|0x8); return v.toString(16); }
+            )
+        };
+        (new Image()).src = 'http://frog.wix.com/bt?src=29&evid=3&pn=1&et=1&v=1.1333.15&vsi=' + wixBiSession.viewerSessionId +
+                '&url=' + encodeURIComponent(location.href.replace(/^http(s)?:\/\/(www\.)?/, '')) +
+                '&isp=1&st=2&ts=0&c=' + wixBiSession.initialTimestamp;
+    } catch (e){}
+    // BEAT MESSAGE END
+</script>
+
+    
+
+    <!-- META DATA -->
+<script type="text/javascript">
+
+    var serviceTopology = {"serverName":"app08.tam","cacheKillerVersion":"1","staticServerUrl":"http://static.parastorage.com/","usersScriptsRoot":"http://static.parastorage.com/services/wix-users/2.609.0","biServerUrl":"http://frog.wix.com/","userServerUrl":"http://users.wix.com/","billingServerUrl":"http://premium.wix.com/","mediaRootUrl":"http://static.wixstatic.com/","logServerUrl":"http://frog.wix.com/plebs","monitoringServerUrl":"http://TODO/","usersClientApiUrl":"https://users.wix.com/wix-users","publicStaticBaseUri":"http://static.parastorage.com/services/wix-public/1.188.0","basePublicUrl":"http://www.wix.com/","postLoginUrl":"http://www.wix.com/my-account","postSignUpUrl":"http://www.wix.com/new/account","baseDomain":"wix.com","staticMediaUrl":"https://static.wixstatic.com/media","staticAudioUrl":"https://media.wix.com/mp3","emailServer":"http://assets.wix.com/common-services/notification/invoke","blobUrl":"https://static.parastorage.com/wix_blob","htmlEditorUrl":"http://editor.wix.com/html","siteMembersUrl":"https://users.wix.com/wix-sm","scriptsLocationMap":{"wixapps":"https://static.parastorage.com/services/wixapps/2.484.0","tpa":"https://static.parastorage.com/services/tpa/2.1062.0","santa-resources":"https://static.parastorage.com/services/santa-resources/1.2.0","wix-code-sdk":"https://static.parastorage.com/services/js-wixcode-sdk/1.8.0","bootstrap":"https://static.parastorage.com/services/bootstrap/2.1229.49","ck-editor":"https://static.parastorage.com/services/ck-editor/1.87.3","it":"https://static.parastorage.com/services/experiments/it/1.37.0","santa":"https://static.parastorage.com/services/santa/1.1333.15","skins":"https://static.parastorage.com/services/skins/2.1229.49","core":"https://static.parastorage.com/services/core/2.1229.49","sitemembers":"https://static.parastorage.com/services/sm-js-sdk/1.31.0","automation":"https://static.parastorage.com/services/automation/1.23.0","web":"https://static.parastorage.com/services/web/2.1229.49","ecommerce":"https://static.parastorage.com/services/ecommerce/1.203.0","hotfixes":"https://static.parastorage.com/services/experiments/hotfixes/1.15.0","langs":"https://static.parastorage.com/services/langs/2.568.0","santa-versions":"https://static.parastorage.com/services/santa-versions/1.419.0","ut":"https://static.parastorage.com/services/experiments/ut/1.2.0"},"developerMode":false,"productionMode":true,"staticServerFallbackUrl":"https://sslstatic.wix.com/","staticVideoUrl":"http://video.wixstatic.com/","scriptsDomainUrl":"https://static.parastorage.com/","userFilesUrl":"http://static.parastorage.com/","staticHTMLComponentUrl":"http://eisenhax.wix.com.usrfiles.com/","secured":false,"ecommerceCheckoutUrl":"https://www.safer-checkout.com/","premiumServerUrl":"https://premium.wix.com/","appRepoUrl":"http://assets.wix.com/wix-lists-ds-webapp","digitalGoodsServerUrl":"http://dgs.wixapps.net/","wixCloudBaseDomain":"wix-code.com","mailServiceSuffix":"/_api/common-services/notification/invoke","staticVideoHeadRequestUrl":"http://storage.googleapis.com/video.wixstatic.com","protectedPageResolverUrl":"https://site-pages.wix.com/_api/wix-public-html-info-webapp/resolve_protected_page_urls","publicStaticsUrl":"http://static.parastorage.com/services/wix-public/1.188.0","staticDocsUrl":"http://media.wix.com/ugd"};
+    var santaModels = true;
+    var rendererModel = {"metaSiteId":"6adf3f6c-2894-443a-b656-7b00167fa038","siteInfo":{"documentType":"UGC","applicationType":"HtmlWeb","siteId":"f5af6ef0-dbca-4959-aa3d-92aa580bc180","siteTitleSEO":"chamana"},"clientSpecMap":{"13":{"type":"sitemembers","applicationId":13,"collectionType":"Open","smtoken":"412ef705774f0dc43a59a54b5f3d3e313a1de1ebb0b07735292112403850947f6996dd8c5410499fc5b7d5cf38290970d3cb6dfa89d46dabaf2070e7632889ef46edb4aeadaf2d72b3d05d8ada367177275cee97ae3e486fd14a0b2f2c1609b3","smcollectionId":"0c9d6029-0898-4475-af77-c9534592ad69"},"2":{"type":"appbuilder","applicationId":2,"appDefinitionId":"3d590cbc-4907-4cc4-b0b1-ddf2c5edf297","instanceId":"1444afd1-86d6-8561-8d94-c174d7f4d391","state":"Initialized"},"1164":{"type":"public","applicationId":1164,"appDefinitionId":"12a5a563-3b69-724b-e21e-6e03d190cf72","appDefinitionName":"Instagram Feed","instance":"dJsJ0D53O69jfvcUoqLb7lnsFQuW6mHM3pQeAuiD8Lk.eyJpbnN0YW5jZUlkIjoiOTNjZWQzZjQtYjA3ZC00MTM2LWI4NjQtNDQyY2ViNDE2OWIyIiwic2lnbkRhdGUiOiIyMDE2LTA0LTIwVDIzOjMzOjMxLjIwOVoiLCJ1aWQiOiIzZTFhZmM5My04ZmI5LTQ0OTQtOWU5NC0wM2I5NGRiMjEzMzIiLCJwZXJtaXNzaW9ucyI6Ik9XTkVSIiwiaXBBbmRQb3J0IjoiMjAwLjEwNC4yMzUuMjQ2LzM1MDAxIiwidmVuZG9yUHJvZHVjdElkIjpudWxsLCJkZW1vTW9kZSI6ZmFsc2UsImJpVG9rZW4iOiJmOTExZWM5OC05OGU5LTA1MGMtMGUzMi0zZjJjZmQzZWM5OGEiLCJzaXRlT3duZXJJZCI6IjNlMWFmYzkzLThmYjktNDQ5NC05ZTk0LTAzYjk0ZGIyMTMzMiJ9","sectionPublished":true,"sectionMobilePublished":false,"sectionSeoEnabled":true,"widgets":{"12a5a563-3b21-ac15-3751-40c8eca15238":{"widgetUrl":"http:\/\/instagram.apps.wix.com\/","widgetId":"12a5a563-3b21-ac15-3751-40c8eca15238","refreshOnWidthChange":true,"mobileUrl":"http:\/\/instagram.apps.wix.com\/mobile","published":true,"mobilePublished":true,"seoEnabled":false}},"appRequirements":{"requireSiteMembers":false},"isWixTPA":true,"installedAtDashboard":false,"permissions":{"revoked":false}}},"premiumFeatures":["AdsFree","ShowWixWhileLoading","HasDomain"],"geo":"CHL","languageCode":"es","previewMode":false,"userId":"3e1afc93-8fb9-4494-9e94-03b94db21332","siteMetaData":{"preloader":{"enabled":false},"adaptiveMobileOn":true,"quickActions":{"socialLinks":[],"colorScheme":"dark","configuration":{"quickActionsMenuEnabled":false,"navigationMenuEnabled":true,"phoneEnabled":false,"emailEnabled":false,"addressEnabled":false,"socialLinksEnabled":false}},"contactInfo":{"companyName":"","phone":"","fax":"","email":"","address":""}},"runningExperiments":{"rendererRpcHeadersSanity":"new","sv_allowEditingGaps":"new","anchorsMenuAutoColor":"new","actionsBehaviors":"new","sv_exp171":"new","sv_blogCleanExcerptStyles":"new","sv_blogPagination":"new","sv_passwordPages":"new","fixGsapRaf":"new","highlightAnchorsInMenu":"new","improvedImageZoom":"new","sv_blogCategories":"new","sendContactFormEmailsViaPong":"old","sv_removeLoginByGuid":"new","sv_appFlows":"new","mobileAppBannerOnMobile":"new","sv_blogVideoThumbnail":"new","sv_dontShowGalleryLink":"new"},"urlFormatModel":{"format":"hashBang","forbiddenPageUriSEOs":["app","apps","_api","robots.txt","sitemap.xml","feed.xml","sites"],"pageIdToResolvedUriSEO":{}},"passwordProtectedPages":[]};
+    var publicModel = {"domain":"wix.com","externalBaseUrl":"http:\/\/eisenhax.wix.com\/chamana","unicodeExternalBaseUrl":"http:\/\/eisenhax.wix.com\/chamana","pageList":{"masterPage":["https:\/\/static.wixstatic.com\/sites\/3e1afc_cbd7db239e0f6812112b10c626c84f9d_20.json.z?v=3","https:\/\/staticorigin.wixstatic.com\/sites\/3e1afc_cbd7db239e0f6812112b10c626c84f9d_20.json.z?v=3","https:\/\/eisenhax.wix.com\/sites\/3e1afc_cbd7db239e0f6812112b10c626c84f9d_20.json.z?v=3","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/3e1afc_cbd7db239e0f6812112b10c626c84f9d_20.json"],"pages":[{"pageId":"fodoy","title":"ABOUT US","pageUriSEO":"about-us","urls":["https:\/\/static.wixstatic.com\/sites\/3e1afc_bd523b614709223b5468ee615dc8d864_10.json.z?v=3","https:\/\/staticorigin.wixstatic.com\/sites\/3e1afc_bd523b614709223b5468ee615dc8d864_10.json.z?v=3","https:\/\/eisenhax.wix.com\/sites\/3e1afc_bd523b614709223b5468ee615dc8d864_10.json.z?v=3","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/3e1afc_bd523b614709223b5468ee615dc8d864_10.json"]},{"pageId":"c1dmp","title":"HOME","pageUriSEO":"home","urls":["https:\/\/static.wixstatic.com\/sites\/3e1afc_501c62cea5538dff50ec6af6181056c7_13.json.z?v=3","https:\/\/staticorigin.wixstatic.com\/sites\/3e1afc_501c62cea5538dff50ec6af6181056c7_13.json.z?v=3","https:\/\/eisenhax.wix.com\/sites\/3e1afc_501c62cea5538dff50ec6af6181056c7_13.json.z?v=3","https:\/\/fallback.wix.com\/wix-html-editor-pages-webapp\/page\/3e1afc_501c62cea5538dff50ec6af6181056c7_13.json"]}],"mainPageId":"c1dmp"},"timeSincePublish":49682,"favicon":"","deviceInfo":{"deviceType":"Desktop","browserType":"Chrome","browserVersion":49},"siteRevision":24};
+
+
+    var googleAnalytics = "UA-2117194-61"
+    ;
+
+    var googleRemarketing = "";
+    var facebookRemarketing = "";
+    var yandexMetrika = "";
+
+</script>
+
+
+
+            <meta name="fragment" content="!"/>
+    
+    <!-- DATA -->
+<script type="text/javascript">
+    var adData = {};
+    var mobileAdData = {};
+    var usersDomain = "https://users.wix.com/wix-users";
+        </script>
+
+            <script type="text/javascript">
+    var santaBase = 'https://static.parastorage.com/services/santa/1.1333.15';
+        var clientSideRender = true;
+    </script>
+<script src="https://static.parastorage.com/services/third-party/requirejs/2.1.15/require.min.js"></script>
+<script src="https://static.parastorage.com/services/santa/1.1333.15/app/main-r.min.js"></script>
+<link rel="stylesheet" href="https://static.parastorage.com/services/santa/1.1333.15/static/css/viewer.css">
+
+</head>
+<body>
+        <div id="SITE_CONTAINER"></div>
+
+    
+        
+    
+<!-- No Footer -->
+    
+    
+        
+    
+
+    </body>
+</html>
